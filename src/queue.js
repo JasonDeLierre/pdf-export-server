@@ -600,10 +600,10 @@ class Worker extends Loggable {
 
         config.printBackground = true;
         config.margin = {
-            top    : 0,
-            bottom : 0,
-            left   : 1,
-            right  : 1
+            top    : 40,
+            bottom : 40,
+            left   : 40,
+            right  : 40
         };
 
         // NOTE: NOT SUPPORTED IN WSL
